@@ -2,7 +2,7 @@
   "characters": [
     {
       "id": "1",
-      "name": "Santa Claus",
+      "name": "Sophia",
       "thumbnailImageUrl": "https://images.unsplash.com/photo-1543589077-47d81606c1bf?q=80&w=500&auto=format&fit=crop",
       "incomingBackgroundUrl": "https://images.unsplash.com/photo-1511268011861-691ed210aae8?q=80&w=1000&auto=format&fit=crop",
       "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
@@ -13,7 +13,7 @@
     },
     {
       "id": "2",
-      "name": "Scary Clown",
+      "name": "Lara",
       "thumbnailImageUrl": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=500&auto=format&fit=crop",
       "incomingBackgroundUrl": "https://images.unsplash.com/photo-1505635330303-d3f146aa1644?q=80&w=1000&auto=format&fit=crop",
       "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
@@ -24,11 +24,44 @@
     },
     {
       "id": "3",
-      "name": "Police Officer",
+      "name": "Daniela",
       "thumbnailImageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=500&auto=format&fit=crop",
       "incomingBackgroundUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=1000&auto=format&fit=crop",
       "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
       "voiceBackgroundImageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=1000&auto=format&fit=crop",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/ringtone.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/audiocall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/MessageTone.mp3"
+    },
+    {
+      "id": "4",
+      "name": "Megan",
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=500&auto=format&fit=crop",
+      "incomingBackgroundUrl": "https://images.unsplash.com/photo-1490750967868-88df5691cc9e?q=80&w=1000&auto=format&fit=crop",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
+      "voiceBackgroundImageUrl": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?q=80&w=1000&auto=format&fit=crop",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/ringtone.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/audiocall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/MessageTone.mp3"
+    },
+    {
+      "id": "5",
+      "name": "Manon",
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=500&auto=format&fit=crop",
+      "incomingBackgroundUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?q=80&w=1000&auto=format&fit=crop",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
+      "voiceBackgroundImageUrl": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?q=80&w=1000&auto=format&fit=crop",
+      "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/ringtone.mp3",
+      "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/audiocall.mp3",
+      "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/MessageTone.mp3"
+    },
+    {
+      "id": "6",
+      "name": "Yoonchae",
+      "thumbnailImageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=500&auto=format&fit=crop",
+      "incomingBackgroundUrl": "https://images.unsplash.com/photo-1483683804023-6ccdb62f86ef?q=80&w=1000&auto=format&fit=crop",
+      "videoUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/videocall.mp4",
+      "voiceBackgroundImageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?q=80&w=1000&auto=format&fit=crop",
       "ringtoneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/ringtone.mp3",
       "voiceCallAudioUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/audiocall.mp3",
       "messageToneUrl": "https://raw.githubusercontent.com/Marrokii/prankcall/main/MessageTone.mp3"
